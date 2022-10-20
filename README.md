@@ -16,9 +16,9 @@
 
 ![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikelmelopes&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelmelopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 

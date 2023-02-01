@@ -1,5 +1,5 @@
 # Hello, I'm Rikelme Lopes 👋👋
-### Training and studying to be a mobile dev!!
+### Desenvolvedor Back End!!
 ## Find me
 
 [![Titulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sales-dev/)

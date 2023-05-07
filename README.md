@@ -1,4 +1,4 @@
-# Hello, I'm Rikelme Lopes 👋👋
+# Hello, I'm Rikelme Lopes 
 ### Desenvolvedor Back End!!
 ## Find me
 

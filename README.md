@@ -30,6 +30,8 @@
 [![Titulo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge//Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Titulo](https://img.shields.io/badge//Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+
 
 
 ### Work tools:

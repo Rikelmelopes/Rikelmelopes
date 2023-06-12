@@ -29,6 +29,8 @@
 [![Titulo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Titulo](https://img.shields.io/badge//Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+
 
 ### Work tools:
 

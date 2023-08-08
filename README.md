@@ -8,7 +8,7 @@
 
 ## GitHub Status
 
-![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikelmelopes&show_icons=true&theme=dracula)
 
